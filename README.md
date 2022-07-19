@@ -13,16 +13,15 @@ Also tried RobertaForSequenceClassification and XLNetForSequenceClassification m
 > https://wandb.ai/owaiskhan9515/Multi%20Label%20Classification%20of%20PubMed%20Articles%20(Paper%20Night%20Presentation)
 
 
-> 
 > - To get the API key, create an account in the [website](https://wandb.ai/site) .
-> - Use secrets to use API Keys more securely 
+> - Use secrets to use API Keys more securely inside Kaggle. 
 
 <img src="https://raw.githubusercontent.com/Owaiskhan9654/Gene-Sequence-Primer-/main/BioAsq.JPG">
 
-For more information on the attributes visit [here](https://www.kaggle.com/datasets/owaiskhan9654/pubmed-multilabel-text-classification).
+For more information on the attributes visit the Kaggle Dataset Description [here](https://www.kaggle.com/datasets/owaiskhan9654/pubmed-multilabel-text-classification).
 
 
-#### In order to, get a full grasp of what steps should I be taking to utilizing this dataset. Let us have a look at the information in data. 
+#### In order to, get a full grasp of what steps should I be taking to utilizing this dataset. Have a Full look at the Dataset and information present in the Kaggle Notebook. 
 
 
 ## <p style="background-color:#1a0a36;font-family:newtimeroman;color:#FFF9ED;font-size:150%;text-align:center;border-radius:10px 10px;"> References</p>
