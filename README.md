@@ -1,5 +1,6 @@
 # Multi-Label-Classification-of-Pubmed-Articles
 The traditional machine learning models give a lot of pain when we do not have sufficient labeled data for the specific task or domain we care about to train a reliable model.  Transfer learning allows us to deal with these scenarios by leveraging the already existing labeled data of some related task or domain. We try to store this knowledge gained in solving the source task in the source domain and apply it to our problem of interest.  In this work, I have utilized Transfer Learning utilizing BertForSequenceClassification model.  
+
 Also tried RobertaForSequenceClassification and XLNetForSequenceClassification models for Fine-Tuning the Model.
 <img src="https://raw.githubusercontent.com/Owaiskhan9654/DigiGene/main/Paper%20Night%20Design.gif">
 
