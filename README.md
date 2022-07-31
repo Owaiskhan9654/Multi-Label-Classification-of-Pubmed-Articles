@@ -23,7 +23,7 @@ Also tried **RobertaForSequenceClassification** and **XLNetForSequenceClassifica
 For more information on the attributes visit the Kaggle Dataset Description [here](https://www.kaggle.com/datasets/owaiskhan9654/pubmed-multilabel-text-classification).
 
 
-#### In order to, get a full grasp of what steps should I be taking to utilizing this dataset. Have a Full look at the Dataset and information present in the Kaggle Notebook. 
+#### In order to, get a full grasp of what steps should I be taking to utilizing this dataset. Have a Full look at the Dataset and information present in the Kaggle Notebook  [Link](https://www.kaggle.com/code/owaiskhan9654/multi-label-classification-of-pubmed-articles) & Kaggle Dataset [Link](https://www.kaggle.com/datasets/owaiskhan9654/pubmed-multilabel-text-classification)
 
 
 ## <p style="background-color:#1a0a36;font-family:newtimeroman;color:#FFF9ED;font-size:150%;text-align:center;border-radius:10px 10px;"> References</p>
