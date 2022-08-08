@@ -1,7 +1,7 @@
 # Multi-Label-Classification-of-Pubmed-Articles
 Live at Huggingface [Here](https://huggingface.co/spaces/owaiskha9654/Multi-Label-Classification-of-Pubmed-Articles). 
 
-The traditional machine learning models give a lot of pain when we do not have sufficient labeled data for the specific task or domain we care about to train a reliable model.  Transfer learning allows us to deal with these scenarios by leveraging the already existing labeled data of some related task or domain. We try to store this knowledge gained in solving the source task in the source domain and apply it to our problem of interest.  In this work, I have utilized Transfer Learning utilizing BertForSequenceClassification model to fine tune on Pubmed MultiLabel classification Datset.  
+The traditional machine learning models give a lot of pain when we do not have sufficient labeled data for the specific task or domain we care about to train a reliable model.  Transfer learning allows us to deal with these scenarios by leveraging the already existing labeled data of some related task or domain. We try to store this knowledge gained in solving the source task in the source domain and apply it to our problem of interest.  In this work, I have utilized Transfer Learning utilizing BIOBERT model to fine tune on Pubmed MultiLabel classification Datset.  
 
 Also tried **RobertaForSequenceClassification** and **XLNetForSequenceClassification** models for Fine-Tuning the Model on Pubmed MultiLabel Datset.
 
@@ -13,7 +13,7 @@ Also tried **RobertaForSequenceClassification** and **XLNetForSequenceClassifica
 
 > I have integrated Weight and Bias for visualizations and logging artifacts and comparisons of different models!
 > 
-> Multi Label Classification of PubMed Articles [(Paper Night Presentation)](https://wandb.ai/owaiskhan9515/Multi%20Label%20Classification%20of%20PubMed%20Articles%20(Paper%20Night%20Presentation))
+> Multi Label Classification of PubMed Articles Weight and Biases Different Model training Logs [Links](https://wandb.ai/owaiskhan9515/Multi%20Label%20Classification%20of%20PubMed%20Articles%20(Paper%20Night%20Presentation))
 
 
 > - To get the API key, create an account in the [website](https://wandb.ai/site) .
