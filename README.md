@@ -12,7 +12,7 @@ The traditional machine learning models give a lot of pain when we do not have s
 Also tried **RobertaForSequenceClassification** and **XLNetForSequenceClassification** models for Fine-Tuning the Model on Pubmed MultiLabel Datset.
 
 
-<img src="https://raw.githubusercontent.com/Owaiskhan9654/DigiGene/main/Paper%20Night%20Design.gif">
+<img src="https://gitlab.com/Owaiskhan9654/Multi-Label-Classification-of-Pubmed-Articles/-/raw/main/images/presentation_gif.gif">
 
 
 <img src="https://camo.githubusercontent.com/dd842f7b0be57140e68b2ab9cb007992acd131c48284eaf6b1aca758bfea358b/68747470733a2f2f692e696d6775722e636f6d2f52557469567a482e706e67">
