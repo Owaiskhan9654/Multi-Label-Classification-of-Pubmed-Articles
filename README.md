@@ -4,7 +4,6 @@
 
 Read Announcements [Here](https://www.kaggle.com/discussions/general/370095) and [Here](https://www.kaggle.com/kaggle-ml-research-spotlight-winners). 
 
-
 Live at Huggingface [Here](https://huggingface.co/spaces/owaiskha9654/Multi-Label-Classification-of-Pubmed-Articles). 
 
 The traditional machine learning models give a lot of pain when we do not have sufficient labeled data for the specific task or domain we care about to train a reliable model.  Transfer learning allows us to deal with these scenarios by leveraging the already existing labeled data of some related task or domain. We try to store this knowledge gained in solving the source task in the source domain and apply it to our problem of interest.  In this work, I have utilized Transfer Learning utilizing BIOBERT model to fine tune on Pubmed MultiLabel classification Datset.  
@@ -18,7 +17,7 @@ Also tried **RobertaForSequenceClassification** and **XLNetForSequenceClassifica
 <img src="https://camo.githubusercontent.com/dd842f7b0be57140e68b2ab9cb007992acd131c48284eaf6b1aca758bfea358b/68747470733a2f2f692e696d6775722e636f6d2f52557469567a482e706e67">
 
 > I have integrated Weight and Bias for visualizations and logging artifacts and comparisons of different models!
-> 
+
 > Multi Label Classification of PubMed Articles Weight and Biases Different Model training Logs [Links](https://wandb.ai/owaiskhan9515/Multi%20Label%20Classification%20of%20PubMed%20Articles%20(Paper%20Night%20Presentation))
 
 
