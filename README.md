@@ -1,8 +1,4 @@
-# Multi-Label-Classification-of-Pubmed-Articles
-## This Work Got Selected in November 2022 Kaggle ML Research Spotlight🎉🎉
-<img src="https://gitlab.com/Owaiskhan9654/Multi-Label-Classification-of-Pubmed-Articles/-/raw/main/Kaggle%20ML%20Research%20Spotlight%20Winners2.JPG" height=200px width=700px>
-
-Read Announcements [Here](https://www.kaggle.com/discussions/general/370095) and [Here](https://www.kaggle.com/kaggle-ml-research-spotlight-winners). 
+# Multi-Label-Classification-of-Pubmed-Articles-Using-Deep-Learning
 
 Live at Huggingface [Here](https://huggingface.co/spaces/owaiskha9654/Multi-Label-Classification-of-Pubmed-Articles). 
 
